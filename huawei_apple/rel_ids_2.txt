@@ -1,0 +1,15 @@
+11	name
+12	developer
+13	category
+14	appId
+15	pack
+16	size
+17	ageLimit
+18	developerContact
+19	updateContent
+20	updateTime
+21	desc
+22	version
+23	privacyPolicy
+24	shop
+25	recommend
